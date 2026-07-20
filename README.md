@@ -28,6 +28,7 @@ This project is an interactive Hospital Emergency Management Dashboard developed
 
 ## 📸 Dashboard Preview
 See the dashboard screenshot available in this repository.
+![Dashboard](Tushar%20project%20Dashboard.png)
 
 ## 👨‍💻 Author
 **Tushar Sangwan**
